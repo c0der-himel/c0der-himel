@@ -8,7 +8,7 @@
 
  📫 How to reach me **himel777hussain@gmail.com**
 
-- 📄 Know about my experiences [https://c0der-himel.github.io/myPortfolio/](https://c0der-himel.github.io/myPortfolio/)
+ 📄 Know about my experiences [https://c0der-himel.github.io/myPortfolio/](https://c0der-himel.github.io/myPortfolio/)
 </div>
 
 <h3 align="center">Connect with me:</h3>
