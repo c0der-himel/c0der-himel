@@ -2,7 +2,7 @@
 <h3 align="center">an aspiring software developer from Bangladesh</h3>
 
 <div align="center">
- 🌱 I’m currently learning **nodeJS, ExpressJS, MongoDB with Mongoose**
+ 🌱 I’m currently learning ** ReactJS, NodeJS, ExpressJS, MongoDB with Mongoose **
 
  👨‍💻 All of my projects are available at [https://c0der-himel.github.io/myPortfolio/](https://c0der-himel.github.io/myPortfolio/)
 
