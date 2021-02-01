@@ -29,4 +29,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=c0der-himel&show_icons=true&locale=en&layout=compact" alt="c0der-himel" /></p>
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=c0der-himel&" alt="c0der-himel" /></p>
-<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=c0der-himel&show_icons=true&locale=en" alt="c0der-himel" /></p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=c0der-himel&show_icons=true&locale=en" alt="c0der-himel" /></p>
