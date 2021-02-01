@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himel</h1>
-<h3 align="center">an aspiring software developer from Bangladesh</h3>
+<h3 align="center">an aspiring software engineer from Bangladesh</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=c0der-himel&label=Profile%20views&color=0e75b6&style=flat" alt="c0der-himel" /> </p>
 
 <div align="center">
