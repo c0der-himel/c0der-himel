@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himel</h1>
 <h3 align="center">an aspiring software developer from Bangladesh</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=c0der-himel&label=Profile%20views&color=0e75b6&style=flat" alt="c0der-himel" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=c0der-himel&label=Profile%20views&color=0e75b6&style=flat" alt="c0der-himel" /> </p>
 
 <div align="center">
  🌱 I’m currently learning ** ReactJS, NodeJS, ExpressJS, MongoDB with Mongoose **
@@ -27,6 +27,6 @@
  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=c0der-himel&" alt="c0der-himel" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=c0der-himel&show_icons=true&locale=en&layout=compact" alt="c0der-himel" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=c0der-himel&show_icons=true&locale=en" alt="c0der-himel" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=c0der-himel&" alt="c0der-himel" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=c0der-himel&show_icons=true&locale=en&layout=compact" alt="c0der-himel" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=c0der-himel&show_icons=true&locale=en" alt="c0der-himel" /></p>
