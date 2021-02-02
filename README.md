@@ -8,8 +8,6 @@
  👨‍💻 All of my projects are available at [https://c0der-himel.github.io/myPortfolio/](https://c0der-himel.github.io/myPortfolio/)
 
  📫 How to reach me **himel777hussain@gmail.com**
-
- 📄 Know about my experiences [https://c0der-himel.github.io/myPortfolio/](https://c0der-himel.github.io/myPortfolio/)
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
