@@ -1,13 +1,23 @@
 <h1 align="center">Hi 👋, I'm Himel</h1>
 <h3 align="center">an aspiring software engineer from Bangladesh</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=c0der-himel&label=Profile%20views&color=0e75b6&style=flat" alt="c0der-himel" /> </p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=c0der-himel" alt="c0der-himel" /></a> </p>
 <div align="center">
  🌱 I’m currently learning ** ReactJS, NodeJS, ExpressJS, MongoDB with Mongoose **
+ - 🔭 I’m currently working on [Fix Your First Bug](https://github.com/c0der-himel/fix-your-first-bug.git)
+
+- 👯 I’m looking to collaborate on [Fix Your First Bug](https://github.com/c0der-himel/fix-your-first-bug.git)
+
+- 🤝 I’m looking for help with [Fix Your First Bug](https://github.com/c0der-himel/fix-your-first-bug.git)
+
+- 💬 Ask me about **Fix Your First Bug**
 
  👨‍💻 All of my projects are available at [https://c0der-himel.github.io/myPortfolio/](https://c0der-himel.github.io/myPortfolio/)
 
  📫 How to reach me **himel777hussain@gmail.com**
+ - 📄 Know about my experiences [https://drive.google.com/file/d/1qfD1oPAB33H-s579N3P1RKa6ZItq9cvi/view](https://drive.google.com/file/d/1qfD1oPAB33H-s579N3P1RKa6ZItq9cvi/view)
+
+- ⚡ Fun fact **I am Funny**
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -28,5 +38,11 @@
  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  
 </p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shahadat-himel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shahadat-himel" height="30" width="40" /></a>
+<a href="https://instagram.com/md_shahadat_himel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="md_shahadat_himel" height="30" width="40" /></a>
+</p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=c0der-himel&show_icons=true&locale=en&layout=compact" alt="c0der-himel" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=c0der-himel&show_icons=true&locale=en" alt="c0der-himel" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=c0der-himel&" alt="c0der-himel" /></p>
