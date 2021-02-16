@@ -21,6 +21,12 @@
  ⚡ Fun fact ** 😂 I am Funny 😂 **
 </div>
 
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/shahadat-himel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shahadat-himel" height="30" width="40" /></a>
+<a href="https://instagram.com/md_shahadat_himel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="md_shahadat_himel" height="30" width="40" /></a>
+</p>
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -38,11 +44,6 @@
  <a href="https://git-scm.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/7892489?s=200&v=4" alt="git" width="40" height="40"/> </a>
  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  
-</p>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/shahadat-himel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shahadat-himel" height="30" width="40" /></a>
-<a href="https://instagram.com/md_shahadat_himel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="md_shahadat_himel" height="30" width="40" /></a>
 </p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=c0der-himel&show_icons=true&locale=en&layout=compact" alt="c0der-himel" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=c0der-himel&" alt="c0der-himel" /></p>
