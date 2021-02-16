@@ -18,7 +18,7 @@
  
  📄 Know about my experiences [https://drive.google.com/file/d/1qfD1oPAB33H-s579N3P1RKa6ZItq9cvi/view](https://drive.google.com/file/d/1qfD1oPAB33H-s579N3P1RKa6ZItq9cvi/view)
 
- ⚡ Fun fact **I am Funny**
+ ⚡ Fun fact ** 😂 I am Funny 😂 **
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
