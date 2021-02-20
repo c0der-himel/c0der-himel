@@ -1,5 +1,8 @@
-<h1 align="left">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Himel](https://c0der-himel.github.io/myPortfolio/) </h1>
-<h3 align="left">An aspiring software engineer from Bangladesh</h3>
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Himel!](https://c0der-himel.github.io/myPortfolio/)
+
+### About Me 🚀
+🎓 I am an aspiring software engineer. I love to code and build new things. </br>
+👨‍💻  I am passionate Software Engineering, Web Dev. I enjoy learning new things. I love to code & build new things which will benefit others.</br>
 
 - 🔭 I’m currently working on [Fix Your First Bug](https://github.com/c0der-himel/fix-your-first-bug.git)
 
@@ -15,7 +18,7 @@
 
 - 📫 How to reach me **himel777hussain@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1qfD1oPAB33H-s579N3P1RKa6ZItq9cvi/view](https://drive.google.com/file/d/1qfD1oPAB33H-s579N3P1RKa6ZItq9cvi/view)
+- 📄 Resume [👉 Click 👈](https://drive.google.com/file/d/1qfD1oPAB33H-s579N3P1RKa6ZItq9cvi/view)
 
 - ⚡ Fun fact **😂 I am Funny 😂**
 
