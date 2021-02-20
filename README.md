@@ -2,7 +2,7 @@
 
 ### About Me 🚀
 🎓 I am an aspiring software engineer. I love to code and build new things. </br>
-👨‍💻  I am passionate Software Engineering, Web Dev. I enjoy learning new things. I love to code & build new things which will benefit others.</br>
+👨‍💻  I am passionate about Software Engineering, Web Dev. I enjoy learning new things & build new things which will benefit others.</br>
 
 - 🔭 I’m currently working on [Fix Your First Bug](https://github.com/c0der-himel/fix-your-first-bug.git)
 
