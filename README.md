@@ -1,8 +1,8 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Himel!](https://c0der-himel.github.io/myPortfolio/)
 
 ### About Me 🚀
-🎓 I am an aspiring software engineer. I love to code and build new things. </br>
-👨‍💻  I am passionate about Software Engineering, Web Dev. I enjoy learning new things & build new things which will benefit others.</br>
+🚀 I am an aspiring software engineer. I love to code. </br>
+👨‍💻  I am passionate about Software Engineering, Web Dev. I enjoy learning new things & build things which will benefit others.</br>
 
 - 🔭 I’m currently working on [Fix Your First Bug](https://github.com/c0der-himel/fix-your-first-bug.git)
 
