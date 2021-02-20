@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Himel</h1>
-<h3 align="left">A passionate frontend developer from Bangladesh</h3>
+<h1 align="left">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Himel](https://c0der-himel.github.io/myPortfolio/) </h1>
+<h3 align="left">An aspiring software engineer from Bangladesh</h3>
 
 - 🔭 I’m currently working on [Fix Your First Bug](https://github.com/c0der-himel/fix-your-first-bug.git)
 
@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [Fix Your First Bug](https://github.com/c0der-himel/fix-your-first-bug.git)
 
-- 👨‍💻 Portfolio [https://c0der-himel.github.io/myPortfolio/](https://c0der-himel.github.io/myPortfolio/)
+- 👨‍💻 Portfolio [👉 Click 👈](https://c0der-himel.github.io/myPortfolio/)
 
 - 💬 Ask me about **Fix Your First Bug**
 
