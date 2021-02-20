@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Himel</h1>
+<h1 align="left">Hi 👋, I'm Himel</h1>
 <h3 align="left">A passionate frontend developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on [Fix Your First Bug](https://github.com/c0der-himel/fix-your-first-bug.git)
