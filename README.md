@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Fix Your First Bug](https://github.com/c0der-himel/fix-your-first-bug.git)
 
-- 🌱 I’m currently learning **React, Express & MongoDB**
+- 🌱 I’m currently learning **Vue & Laravel**
 
 - 👯 I’m looking to collaborate on [Fix Your First Bug](https://github.com/c0der-himel/fix-your-first-bug.git)
 
