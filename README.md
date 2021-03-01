@@ -1,6 +1,6 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Himel!](https://c0der-himel.github.io/myPortfolio/)
 
-### About Me 🚀
+### About Me
 🚀 I am an aspiring software engineer. I love to code. </br>
 👨‍💻  I am passionate about Software Engineering, Web Dev. I enjoy learning new things & build things which will benefit others.</br>
 
