@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **himel777hussain@gmail.com**
 
-- 📄 Resume [👉 Click 👈](https://drive.google.com/file/d/15UmADkBCC0st2CctX0SaeaKWHTUUVRZv/view)
+- 📄 Resume [👉 Click 👈](https://drive.google.com/file/d/1u-qjyFS3i_kgcIPKXcJ2FVXfn8rORcJN/view?usp=sharing)
 
 - ⚡ Fun fact **😂 I am Funny 😂**
 
