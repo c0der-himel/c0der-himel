@@ -4,21 +4,11 @@
 🚀 I am an aspiring software engineer. I love to code. </br>
 👨‍💻  I am passionate about Software Engineering, Web Dev. I enjoy learning new things & build things which will benefit others.</br>
 
-- 🔭 I’m currently working on [Fix Your First Bug](https://github.com/c0der-himel/fix-your-first-bug.git)
-
 - 🌱 I’m currently learning **PHP, MySQL, Laravel, VueJS**
-
-- 👯 I’m looking to collaborate on [Fix Your First Bug](https://github.com/c0der-himel/fix-your-first-bug.git)
-
-- 🤝 I’m looking for help with [Fix Your First Bug](https://github.com/c0der-himel/fix-your-first-bug.git)
 
 - 👨‍💻 Portfolio [👉 Click 👈](https://c0der-himel.github.io/myPortfolio/)
 
-- 💬 Ask me about **Fix Your First Bug**
-
 - 📫 How to reach me **himel777hussain@gmail.com**
-
-- 📄 Resume [👉 Click 👈](https://drive.google.com/file/d/1u-qjyFS3i_kgcIPKXcJ2FVXfn8rORcJN/view?usp=sharing)
 
 - ⚡ Fun fact **😂 I am Funny 😂**
 
