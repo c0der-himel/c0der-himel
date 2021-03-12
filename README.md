@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React, Express, Laravel**
 
-- 👨‍💻 Portfolio [👉 Click 👈](https://c0der-himel.github.io/myPortfolio/)
+- 👨‍💻 Portfolio [👉 Click 👈](https://jovial-sinoussi-4bfaf8.netlify.app/)
 
 - 📫 How to reach me [👉 Click 👈](https://www.linkedin.com/in/shahadat-himel)
 
