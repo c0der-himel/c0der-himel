@@ -5,7 +5,7 @@
 🧑‍💻 I am an software engineer. I love to code. 🚀 </br>
 🧑‍💻 I am passionate about Software Engineering. I enjoy learning new things & build things which will benefit others. 🚀</br>
 
-- 🌱 I’m currently learning **ReactJS, NodeJS, ExpressJS, MongoDB**
+- 🌱 I’m currently learning **ReactJS, Laravel**
 
 - 👨‍💻 Portfolio [👉 Click 👈](https://himelps.netlify.app/)
 
