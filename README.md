@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS, Laravel**
 
-- 👨‍💻 Portfolio [👉 Click 👈](https://himelps.netlify.app/)
+- 👨‍💻 Portfolio [👉 Click 👈](https://mdshahadathussainps.netlify.app/)
 
 - 📫 How to reach me [👉 Click 👈](https://www.linkedin.com/in/shahadat-himel)
 
