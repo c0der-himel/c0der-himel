@@ -2,7 +2,7 @@
 
 ### About Me
 
-🧑‍💻 I am a full stack developer. I love to code. 🚀 </br>
+🧑‍💻 I am a frontend developer. I love to code. 🚀 </br>
 🧑‍💻 I am passionate about building web apps. I enjoy learning new things & build things which will benefit others. 🚀</br>
 
 - 🌱 I’m currently learning **MERN Stack**
